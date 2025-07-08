@@ -1,0 +1,3 @@
+Correlation between Positive Ratings and Success: 0.73	
+Correlation between Negative Ratings and Success: 0.70	
+Correlation between Sentiment Score and Success: 0.04	

@@ -1,0 +1,93 @@
+[
+    {
+        "genre": "Action",
+        "success_metric": 40516.44,
+        "average_playtime": 144.02,
+        "positive_ratings": 1581.93,
+        "negative_ratings": 6.14
+    },
+    {
+        "genre": "Adventure",
+        "success_metric": 22447.01,
+        "average_playtime": 151.67,
+        "positive_ratings": 869.81,
+        "negative_ratings": 6.12
+    },
+    {
+        "genre": "Casual",
+        "success_metric": 10874.13,
+        "average_playtime": 85.07,
+        "positive_ratings": 273.91,
+        "negative_ratings": 4.11
+    },
+    {
+        "genre": "Early Access",
+        "success_metric": 10746.85,
+        "average_playtime": 81.3,
+        "positive_ratings": 388.05,
+        "negative_ratings": 7.04
+    },
+    {
+        "genre": "Gore",
+        "success_metric": 9779.49,
+        "average_playtime": 47.65,
+        "positive_ratings": 323.68,
+        "negative_ratings": 5.97
+    },
+    {
+        "genre": "Indie",
+        "success_metric": 15318.09,
+        "average_playtime": 112.85,
+        "positive_ratings": 540.15,
+        "negative_ratings": 5.05
+    },
+    {
+        "genre": "Massively Multiplayer",
+        "success_metric": 125395.68,
+        "average_playtime": 725.48,
+        "positive_ratings": 3468.11,
+        "negative_ratings": 4.32
+    },
+    {
+        "genre": "RPG",
+        "success_metric": 33086.54,
+        "average_playtime": 277.05,
+        "positive_ratings": 1346.53,
+        "negative_ratings": 6.94
+    },
+    {
+        "genre": "Racing",
+        "success_metric": 17230.03,
+        "average_playtime": 142.22,
+        "positive_ratings": 663.79,
+        "negative_ratings": 7.05
+    },
+    {
+        "genre": "Simulation",
+        "success_metric": 20708.32,
+        "average_playtime": 154.24,
+        "positive_ratings": 819.66,
+        "negative_ratings": 7.21
+    },
+    {
+        "genre": "Sports",
+        "success_metric": 16031.16,
+        "average_playtime": 115.52,
+        "positive_ratings": 519.48,
+        "negative_ratings": 7.88
+    },
+    {
+        "genre": "Strategy",
+        "success_metric": 29765.52,
+        "average_playtime": 193.17,
+        "positive_ratings": 863.86,
+        "negative_ratings": 6.94
+    },
+    {
+        "genre": "Violent",
+        "success_metric": 9872.38,
+        "average_playtime": 48.14,
+        "positive_ratings": 294.76,
+        "negative_ratings": 6.23
+    }
+]
