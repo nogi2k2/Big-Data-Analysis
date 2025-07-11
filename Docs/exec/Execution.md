@@ -5,7 +5,7 @@ This guide provides step-by-step instructions for executing the Steam Games data
 ## Prerequisites
 
 Ensure that Hadoop, Spark, and MongoDB are properly installed and configured on your system
-[Setup Instructions](./setup/Setup.md)
+[Setup Instructions](../setup/Setup.md)
 
 ## Step-by-Step Execution
 
@@ -40,7 +40,7 @@ Starting Spark provides access to the Spark UI for monitoring active processes, 
 
 ```bash
 start-master.sh
-start-worker.sh spark://$(hostname -f):7077 # Can visit spark master UI @ spark://localhost:8080
+start-worker.sh spark://$(hostname -f):7077 # Can visit spark master UI @ http://localhost:8080
 ```
 
 This starts both the Spark master and worker for local parallel execution

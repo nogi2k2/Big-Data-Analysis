@@ -264,4 +264,4 @@ After completing the setup, verify that all services are properly configured:
 
 ## Next Steps
 
-Once setup is complete, proceed to the [Execution Guide](./Docs/exec/Execution.md) to run the data analysis pipeline.
+Once setup is complete, proceed to the [Execution Guide](../exec/Execution.md) to run the data analysis pipeline.
